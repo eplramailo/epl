@@ -12,9 +12,10 @@ export default function Header() {
             <div className={styles.description}>
                 <div className={styles.center}>
                 <h2>EPL Ramailo Group</h2>
+                <div className={styles.social}>
                 <span><a href='#'><FaFacebook/> </a></span>
                 <span><a href='#'><AiFillTwitterCircle/></a> </span>
-                <br/>
+                </div>
                 <q>Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
                 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
                 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum

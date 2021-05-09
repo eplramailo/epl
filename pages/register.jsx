@@ -30,7 +30,7 @@ export default function Register() {
                         </div>
                         <div>
                             <p>File for ...</p>
-                        <input type="file"  />
+                        <input type="file"   id='file-inp'/>
                          
                            
                          </div>
